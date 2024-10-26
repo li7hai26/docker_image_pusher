@@ -1,3 +1,6 @@
+eolinker/apinto-dashboard:3.3.3
+eolinker/apinto-gateway:0.18.0
+
 openjdk:21
 nginx:alpine
 redis:alpine
