@@ -1,5 +1,5 @@
-apache/shenyu-admin:v2.6.1
-apache/shenyu-bootstrap:v2.6.1
+apache/shenyu-admin:2.6.1
+apache/shenyu-bootstrap:2.6.1
 
 openjdk:21
 nginx:alpine
