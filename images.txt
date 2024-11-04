@@ -1,3 +1,5 @@
+alpine:3.20.3
+
 apache/shenyu-admin:2.6.1
 apache/shenyu-bootstrap:2.6.1
 
