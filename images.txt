@@ -1,4 +1,6 @@
 alpine:3.20.3
+ubuntu:jammy
+ubuntu:focal
 
 apache/shenyu-admin:2.6.1
 apache/shenyu-bootstrap:2.6.1
