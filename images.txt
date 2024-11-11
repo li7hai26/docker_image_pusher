@@ -1,26 +1,28 @@
-oven/bun:1.1.34-debian
-alpine:3.20.3
-centos:6
-centos:7
-ubuntu:jammy
-ubuntu:focal
+area39/pikachu
 
-apache/shenyu-admin:2.6.1
-apache/shenyu-bootstrap:2.6.1
+#oven/bun:1.1.34-debian
+#alpine:3.20.3
+#centos:6
+#centos:7
+#ubuntu:jammy
+#ubuntu:focal
+
+#apache/shenyu-admin:2.6.1
+#apache/shenyu-bootstrap:2.6.1
 
 openjdk:21
 nginx:alpine
 redis:alpine
 mysql:5.7
 mysql:8
-neo4j:5-bullseye
+#neo4j:5-bullseye
 
-openresty/openresty:jammy
-openresty/openresty:focal
-openresty/openresty:alpine
+#openresty/openresty:jammy
+#openresty/openresty:focal
+#openresty/openresty:alpine
 
-jenkins/jenkins:lts-jdk17
-nacos/nacos-server:v2.4.3
+#jenkins/jenkins:lts-jdk17
+#nacos/nacos-server:v2.4.3
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
