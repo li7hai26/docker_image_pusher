@@ -1,3 +1,4 @@
+verdaccio/verdaccio:6.0.2
 area39/pikachu
 hanchuanchuan/goinception
 hhyo/archery:v1.11.3
