@@ -1,4 +1,5 @@
-casbin/casdoor:v1.758.0
+goproxy/goproxy:latest
+#casbin/casdoor:v1.758.0
 #apache/hertzbeat:v1.6.1
 #apache/hertzbeat-collector:v1.6.1
 #verdaccio/verdaccio:6.0.2
