@@ -1,4 +1,11 @@
-goproxy/goproxy:latest
+
+mysql:8.4.2
+maxkeytop/maxkey:4.1.3
+maxkeytop/maxkey-mgt:4.1.3
+maxkeytop/maxkey-frontend:4.1.3
+maxkeytop/maxkey-mgt-frontend:4.1.3
+
+#goproxy/goproxy:latest
 #casbin/casdoor:v1.758.0
 #apache/hertzbeat:v1.6.1
 #apache/hertzbeat-collector:v1.6.1
