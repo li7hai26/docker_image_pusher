@@ -1,4 +1,4 @@
-‌keycloak/keycloak:26.0.6
+keycloak/keycloak:26.0.6
 
 #mysql:8.4.2
 #maxkeytop/maxkey:4.1.3
