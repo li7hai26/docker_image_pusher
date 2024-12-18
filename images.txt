@@ -1,4 +1,5 @@
-portainer/portainer-ce:2.21.4-alpine
+portainer/agent:2.21.4
+#portainer/portainer-ce:2.21.4-alpine
 
 #corentinth/it-tools:2024.10.22-7ca5933
 #corentinth/it-tools:latest
