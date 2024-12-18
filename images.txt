@@ -38,6 +38,7 @@ redis:5
 redis:7
 mysql:5.7
 mysql:8
+mysql:8.0.33
 #neo4j:5-bullseye
 
 #openresty/openresty:jammy
