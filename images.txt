@@ -1,4 +1,5 @@
-opensnail/snail-job:1.2.0
+metersphere/metersphere-ce-allinone:v3.5.0
+#opensnail/snail-job:1.2.0
 #portainer/agent:2.21.4
 #portainer/portainer-ce:2.21.4-alpine
 
