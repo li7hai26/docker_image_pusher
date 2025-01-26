@@ -1,4 +1,5 @@
-ibmcom/websphere-traditional:8.5.5.25
+amd64/golang:1.18.1
+#ibmcom/websphere-traditional:8.5.5.25
 #kong/kong-gateway:3.4
 #dbeaver/cloudbeaver:24.3.2
 #metersphere/metersphere-ce-allinone:v3.5.0
