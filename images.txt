@@ -1,3 +1,4 @@
+postgres:15
 neilpang/acme.sh:3.1.0
 #xhofe/alist
 #ollama/ollama
