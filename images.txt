@@ -1,6 +1,6 @@
-jenkins:lts
-jenkins:lts-jdk21
-jenkins:lts-jdk17
+jenkins/jenkins:lts
+jenkins/jenkins:lts-jdk21
+jenkins/jenkins:lts-jdk17
 jenkins/inbound-agent:latest-jdk21
 jenkins/inbound-agent:latest-jdk17
 #docker:dind
