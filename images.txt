@@ -48,7 +48,9 @@ openjdk:21
 nginx:alpine
 redis:alpine
 redis:5
+redis:6
 redis:7
+redis:8
 mysql:5.7
 mysql:8
 mysql:8.0.33
