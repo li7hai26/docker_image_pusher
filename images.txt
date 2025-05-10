@@ -1,4 +1,6 @@
-jpomdocker/jpom:2.11.12
+gocd/gocd-server:v25.2.0
+gocd/gocd-agent-docker-dind:v25.2.0
+#jpomdocker/jpom:2.11.12
 #kestra/kestra:v0.22.4
 #jenkins/jenkins:lts
 #jenkins/jenkins:lts-jdk21
