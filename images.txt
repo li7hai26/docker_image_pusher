@@ -1,4 +1,4 @@
-kestra/kestra:v0.22.6
+kestra/kestra:v0.22.4
 #jenkins/jenkins:lts
 #jenkins/jenkins:lts-jdk21
 #jenkins/jenkins:lts-jdk17
