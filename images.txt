@@ -1,4 +1,5 @@
-kestra/kestra:v0.22.4
+jpomdocker/jpom:2.11.12
+#kestra/kestra:v0.22.4
 #jenkins/jenkins:lts
 #jenkins/jenkins:lts-jdk21
 #jenkins/jenkins:lts-jdk17
