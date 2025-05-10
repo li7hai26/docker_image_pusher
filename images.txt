@@ -1,8 +1,9 @@
-jenkins/jenkins:lts
-jenkins/jenkins:lts-jdk21
-jenkins/jenkins:lts-jdk17
-jenkins/inbound-agent:latest-jdk21
-jenkins/inbound-agent:latest-jdk17
+kestra/kestra:v0.22.6
+#jenkins/jenkins:lts
+#jenkins/jenkins:lts-jdk21
+#jenkins/jenkins:lts-jdk17
+#jenkins/inbound-agent:latest-jdk21
+#jenkins/inbound-agent:latest-jdk17
 #docker:dind
 #opensnail/snail-job:1.5.0-beta1
 #opensnail/snail-job:1.4.0
