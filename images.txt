@@ -1,3 +1,4 @@
+1panel/kubepi:v1.9.0
 #gocd/gocd-server:v25.2.0
 #gocd/gocd-agent-docker-dind:v25.2.0
 #jpomdocker/jpom:2.11.12
