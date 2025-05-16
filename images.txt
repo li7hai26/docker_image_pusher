@@ -1,4 +1,6 @@
-xuxueli/xxl-job-admin:3.1.0
+xuxueli/xxl-job-admin:3.0.0
+xuxueli/xxl-job-admin:2.5.0
+#xuxueli/xxl-job-admin:3.1.0
 #1panel/kubepi:v1.9.0
 #gocd/gocd-server:v25.2.0
 #gocd/gocd-agent-docker-dind:v25.2.0
