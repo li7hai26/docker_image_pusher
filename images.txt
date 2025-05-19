@@ -1,6 +1,12 @@
-xuxueli/xxl-job-admin:2.4.0
-xuxueli/xxl-job-admin:2.4.1
-xuxueli/xxl-job-admin:2.4.2
+dinkydocker/dinky:1.1.0-flink1.19
+dinkydocker/dinky:1.1.0-flink1.18
+dinkydocker/dinky:1.1.0-flink1.17
+dinkydocker/dinky:1.1.0-flink1.16
+dinkydocker/dinky:1.1.0-flink1.15
+dinkydocker/dinky:1.1.0-flink1.14
+#xuxueli/xxl-job-admin:2.4.0
+#xuxueli/xxl-job-admin:2.4.1
+#xuxueli/xxl-job-admin:2.4.2
 #xuxueli/xxl-job-admin:3.0.0
 #xuxueli/xxl-job-admin:2.5.0
 #xuxueli/xxl-job-admin:3.1.0
