@@ -1,9 +1,10 @@
-dinkydocker/dinky-standalone-server:1.2.3-flink1.19
-dinkydocker/dinky-standalone-server:1.2.3-flink1.18
-dinkydocker/dinky-standalone-server:1.2.3-flink1.17
-dinkydocker/dinky-standalone-server:1.2.3-flink1.16
-dinkydocker/dinky-standalone-server:1.2.3-flink1.15
-dinkydocker/dinky-standalone-server:1.2.3-flink1.14
+apache/streampark:2.1.5
+#dinkydocker/dinky-standalone-server:1.2.3-flink1.19
+#dinkydocker/dinky-standalone-server:1.2.3-flink1.18
+#dinkydocker/dinky-standalone-server:1.2.3-flink1.17
+#dinkydocker/dinky-standalone-server:1.2.3-flink1.16
+#dinkydocker/dinky-standalone-server:1.2.3-flink1.15
+#dinkydocker/dinky-standalone-server:1.2.3-flink1.14
 #dinkydocker/dinky:1.1.0-flink1.19
 #dinkydocker/dinky:1.1.0-flink1.18
 #dinkydocker/dinky:1.1.0-flink1.17
