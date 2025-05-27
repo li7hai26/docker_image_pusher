@@ -1,3 +1,5 @@
+gitlab/gitlab-runner:alpine3.19-bleeding
+gitlab/gitlab-runner:alpine3.18-bleeding
 gitlab/gitlab-ce:18.0.1-ce.0
 gitlab/gitlab-ce:18.0.0-ce.0
 gitlab/gitlab-ce:17.11.3-ce.0
