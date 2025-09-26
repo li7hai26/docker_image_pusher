@@ -1,6 +1,6 @@
 knowstreaming/knowstreaming-manager:0.8.0
 knowstreaming/knowstreaming-ui:0.8.0
-knowstreaming/knowstreaming-msyql:0.8.0
+knowstreaming/knowstreaming-mysql:0.8.0
 
 gitlab/gitlab-runner:alpine3.19-bleeding
 gitlab/gitlab-runner:alpine3.18-bleeding
