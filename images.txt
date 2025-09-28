@@ -1,4 +1,5 @@
-q2316367743/es-client
+mongo-express:1.0.2-20-alpine3.19
+#q2316367743/es-client
 
 #knowstreaming/knowstreaming-manager:0.8.0
 #knowstreaming/knowstreaming-ui:0.8.0
