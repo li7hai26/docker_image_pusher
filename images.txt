@@ -1,3 +1,5 @@
+codercom/code-server:4.104.3-39
+
 dinkydocker/dinky-standalone-server:1.2.4-flink1.14
 dinkydocker/dinky-standalone-server:1.2.4-flink1.15
 dinkydocker/dinky-standalone-server:1.2.4-flink1.16
