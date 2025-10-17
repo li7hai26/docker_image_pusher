@@ -1,3 +1,5 @@
+ghcr.io/sky22333/ansible-ui
+
 semaphoreui/semaphore:v2.16.34
 semaphoreui/semaphore:v2.16.34-ansible2.16.5
 #codercom/code-server:4.104.3-39
