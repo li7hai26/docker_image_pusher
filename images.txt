@@ -1,7 +1,6 @@
-ghcr.io/sky22333/ansible-ui
+redis/redis-stack-server:7.2.0-v19
+redis/redis-stack-server:7.4.0-v7
 
-semaphoreui/semaphore:v2.16.34
-semaphoreui/semaphore:v2.16.34-ansible2.16.5
 #codercom/code-server:4.104.3-39
 
 #mongo-express:1.0.2-20-alpine3.19
