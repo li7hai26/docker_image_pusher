@@ -1,3 +1,5 @@
+calciumion/new-api:v0.9.10
+
 pgvector/pgvector:pg18
 pgvector/pgvector:pg17
 pgvector/pgvector:pg16
