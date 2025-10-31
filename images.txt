@@ -1,15 +1,17 @@
-leixuewen/arthas-tunnel-server:4.0.5
-leixuewen/arthas-tunnel-server:4.0.4
+filegator/filegator:v7.13.0-multiarch
 
-shiyindaxiaojie/arthas-tunnel-server:v3.6.7
+#leixuewen/arthas-tunnel-server:4.0.5
+#leixuewen/arthas-tunnel-server:4.0.4
 
-calciumion/new-api:v0.9.10
+#shiyindaxiaojie/arthas-tunnel-server:v3.6.7
 
-pgvector/pgvector:pg18
-pgvector/pgvector:pg17
-pgvector/pgvector:pg16
-pgvector/pgvector:pg15
-pgvector/pgvector:pg14
+#calciumion/new-api:v0.9.10
+
+#pgvector/pgvector:pg18
+#pgvector/pgvector:pg17
+#pgvector/pgvector:pg16
+#pgvector/pgvector:pg15
+#pgvector/pgvector:pg14
 
 #postgres:18.0
 #postgres:17.6
