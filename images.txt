@@ -1,4 +1,10 @@
-filegator/filegator:v7.13.0-multiarch
+apache/skywalking-oap-server:10.3.0
+apache/skywalking-ui:10.3.0
+apache/skywalking-java-agent:9.5.0-java8
+apache/skywalking-java-agent:9.5.0-java17
+apache/skywalking-java-agent:9.5.0-java21
+
+#filegator/filegator:v7.13.0-multiarch
 
 #leixuewen/arthas-tunnel-server:4.0.5
 #leixuewen/arthas-tunnel-server:4.0.4
